@@ -19,3 +19,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a Robotics Ph.D. student at Texas Robotics at The University of Texas at Austin. My research centers around Surgical Robotics, Flexible Implant Design, Additive Manufacturing, Digital Image Correlation and Finite Element Analysis, with a specific focus on Surgical Robots and Medical Robotics. My research outcome has been onte top-tier first-author robotics conference papers (one ISMR) so far.
+
+To learn more about my research projects click projects & portfolio
