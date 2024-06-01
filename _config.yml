@@ -2,13 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yash Kulkarni Homepage
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+first_name: Yash
+last_name: Kulkarni
+email: kulkarni.yash08@gmail.com
+description: I am a Robotics Ph.D. student at Texas Robotics at The University of Texas at Austin. My research centers around Surgical Robotics, Flexible Implant Design, Additive Manufacturing, Digital Image Correlation and Finite Element Analysis, with a specific focus on Spinal Robot. My research outcome has been one top-tier first-author robotics journal/conference papers (one ISMR) so far. 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
