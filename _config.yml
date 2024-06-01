@@ -42,11 +42,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: yangliu-21 # your GitHub user name
+github_username: YashKulkarni07 # your GitHub user name
 twitter_username: # your Twitter handle
-linkedin_username: yang-liu-63a697204 # your LinkedIn user name
-scholar_userid: sAL9N58AAAAJ # your Google Scholar ID
-orcid_id: # 0000-0002-9164-421X # your ORCID ID
+linkedin_username: yash-kulkarni-427205142 # your LinkedIn user name
+scholar_userid: # your Google Scholar ID
+orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -56,8 +56,8 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
-contact_note: If you would like to contact me, please email me at liu.yang@utexas.edu
-google_analytics: G-L0KJJ2TNG5 #UA-XXXXXXXXX # out your google-analytics code
+contact_note: If you would like to contact me, please email me at kulkarni.yash08@utexas.edu
+google_analytics: # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
