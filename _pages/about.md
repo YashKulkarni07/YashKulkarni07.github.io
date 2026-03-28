@@ -15,7 +15,7 @@ profile:
     <p>kulkarni.yash08@gmail.com</p>
 
 news: false
-selected_papers: true
+selected_papers: False
 social: true
 ---
 
