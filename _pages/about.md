@@ -9,7 +9,8 @@ profile:
   image: Profile_Pic.jpg
   image_circular: false
   more_info: >
-    <p>The University of Texas at Austin</p>
+    <p>UT Austin</p>
+    <p>Mechanical Engineering and Texas Robotics</p>
     <p>Austin, TX 78712</p>
     <p>kulkarni.yash08@gmail.com</p>
 
